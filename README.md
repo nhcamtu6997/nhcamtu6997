@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tu Nguyen
 - 👀 I’m interested in ... Software, Machine Learning 
-- 🌱 I’m currently learning ... C#, .NET and PHP
+- 🌱 I’m currently learning ... ABAP, C#, .NET und Java
 - 📫 How to reach me ... ha.cam.tu.nguyen@mnd.thm.de
